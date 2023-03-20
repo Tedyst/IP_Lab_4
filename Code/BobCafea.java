@@ -1,11 +1,12 @@
 public class BobCafea extends Ingredient {
 
-  public float temperatura_prajire;
-
-  public void adauga_ingredient() {
+  public float temperaturaPrajire;
+  public BobCafea(){
+    this.temperaturaPrajire = 200;
   }
 
-  public BobCafea() {
+  public void adauga_ingredient() {
+    System.out.println("Adauga ingredient");
   }
 
 }

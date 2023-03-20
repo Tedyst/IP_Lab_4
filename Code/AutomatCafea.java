@@ -17,7 +17,4 @@ public class AutomatCafea {
         reteta.add(r);
     }
 
-  public void addReteta(Reteta r) {
-  }
-
 }

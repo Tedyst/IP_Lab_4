@@ -18,4 +18,7 @@ public class Cafea extends Reteta {
   public void infuzie() {
   }
 
+  public Cafea() {
+  }
+
 }

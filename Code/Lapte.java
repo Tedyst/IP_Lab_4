@@ -7,4 +7,7 @@ public class Lapte extends Ingredient {
   public void adauga_ingredient() {
   }
 
+  public Lapte() {
+  }
+
 }

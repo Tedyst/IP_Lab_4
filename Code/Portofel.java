@@ -17,4 +17,7 @@ public class Portofel {
   public void scoate_bani(float suma) {
   }
 
+  public Portofel() {
+  }
+
 }

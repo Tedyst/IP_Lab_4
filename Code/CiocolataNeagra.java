@@ -5,4 +5,7 @@ public class CiocolataNeagra extends Ingredient {
   public void adauga_ingredient() {
   }
 
+  public CiocolataNeagra() {
+  }
+
 }

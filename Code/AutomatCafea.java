@@ -5,4 +5,7 @@ public class AutomatCafea {
     public List<Portofel> portofel;
     public List<Reteta> reteta;
 
+  public AutomatCafea() {
+  }
+
 }

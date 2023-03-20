@@ -18,4 +18,7 @@ public class CeaiCald extends Reteta {
   public void infuzie() {
   }
 
+  public CeaiCald() {
+  }
+
 }

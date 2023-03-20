@@ -5,4 +5,7 @@ public class BobCafea extends Ingredient {
   public void adauga_ingredient() {
   }
 
+  public BobCafea() {
+  }
+
 }

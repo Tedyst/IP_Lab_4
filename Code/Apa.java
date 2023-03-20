@@ -7,4 +7,7 @@ public class Apa extends Ingredient {
   public void adauga_ingredient() {
   }
 
+  public Apa() {
+  }
+
 }

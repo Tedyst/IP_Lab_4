@@ -1,8 +1,10 @@
-public class CiocolataNeagra extends Ingredient {
-  public float cantiate;
-  
-  public void adauga_ingredient() {}
-}
+/*   */ public class CiocolataNeagra extends Ingredient {
+/* 5 */   public float cantiate = 3.0F;
+/*   */   
+/*   */   public void adauga_ingredient() {
+/* 9 */     System.out.println("Adauga ingredient");
+/*   */   }
+/*   */ }
 
 
 /* Location:              /home/tedy/Git/IP_Lab_4/Code/!/CiocolataNeagra.class

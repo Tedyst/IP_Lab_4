@@ -1,8 +1,10 @@
-public class BobCafea extends Ingredient {
-  public float temperatura_prajire;
-  
-  public void adauga_ingredient() {}
-}
+/*   */ public class BobCafea extends Ingredient {
+/* 5 */   public float temperaturaPrajire = 200.0F;
+/*   */   
+/*   */   public void adauga_ingredient() {
+/* 9 */     System.out.println("Adauga ingredient");
+/*   */   }
+/*   */ }
 
 
 /* Location:              /home/tedy/Git/IP_Lab_4/Code/!/BobCafea.class

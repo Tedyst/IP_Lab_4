@@ -9,9 +9,9 @@ public class Portofel {
   
   public int bani50;
   
-  public void adauga_bani(float paramFloat) {}
+  public void adaugaBani(float paramFloat) {}
   
-  public void scoate_bani(float paramFloat) {}
+  public void scoateBani(float paramFloat) {}
 }
 
 

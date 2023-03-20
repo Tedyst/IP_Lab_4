@@ -11,10 +11,10 @@ public class Portofel {
   public int bani50;
 
   
-  public void adauga_bani( suma) {
+  public void adauga_bani(float suma) {
   }
 
-  public void scoate_bani( suma) {
+  public void scoate_bani(float suma) {
   }
 
 }

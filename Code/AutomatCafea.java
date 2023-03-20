@@ -8,4 +8,7 @@ public class AutomatCafea {
   public AutomatCafea() {
   }
 
+  public void addReteta(Reteta r) {
+  }
+
 }

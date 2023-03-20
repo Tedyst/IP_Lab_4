@@ -2,19 +2,21 @@ import java.util.List;
 
 public abstract class Reteta {
 
-  public int timp_preparare;
+  public Reteta(){}
+
+  public int timpPreparare;
 
   public float temperatura;
 
     public List<Ingredient> ingredient;
   
-  public abstract void preparare_reteta();
+  public abstract void preparareReteta();
 
-  public abstract void adaugat_apa();
+  public abstract void adaugatApa();
 
-  public abstract void fierbere_apa();
+  public abstract void fierbereApa();
 
-  public abstract void adaugare_ingredient();
+  public abstract void adaugareIngredient();
 
   public abstract void infuzie();
 

@@ -1,24 +1,31 @@
 public class CeaiCald extends Reteta {
 
-  public void preparare_reteta() {
+  public CeaiCald(){}
+
+  public void preparareReteta() {
+    adaugatApa();
+    adaugareIngredient();
+    adaugaMiere(400);
   }
 
-  public void adauga_miere(float cantitate) {
+  public void adaugaMiere(float cantitate) {
+        cantitate = 4;
   }
 
-  public void adaugat_apa() {
+  public void adaugatApa() {
+    System.out.println("Am adaugat apa");
   }
 
-  public void fierbere_apa() {
+  public void fierbereApa() {
+    System.out.println("Am fiert apa");
   }
 
-  public void adaugare_ingredient() {
+  public void adaugareIngredient() {
+    System.out.println("Am adaugat Ingredient");
   }
 
   public void infuzie() {
-  }
-
-  public CeaiCald() {
+    System.out.println("Se realizeaza infuzia");
   }
 
 }
